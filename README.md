@@ -36,6 +36,13 @@ Open source demo : https://covid.luko.eu/demo.html
 - [x] use a local version of certificate.js as a fail-safe solution
 - [x] Move from url query param to anchor param (to ensure that server have no access to data)
 
+
+## DockerVersion :
+
+```
+$ docker run -tid --rm -p 8080:80 --name mon_attestation_covid jerometerrier/covid-attestation-fr
+```
+
 ## Credit
 
  * Official website code source : used for `certificate.js` : https://github.com/LAB-MI/deplacement-covid-19
