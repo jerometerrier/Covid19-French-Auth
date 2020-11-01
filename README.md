@@ -43,6 +43,8 @@ Open source demo : https://covid.luko.eu/demo.html
 $ docker run -tid --rm -p 8080:80 --name mon_attestation_covid jerometerrier/covid-attestation-fr
 ```
 
+Go to http://localhost:8080/demo.html
+
 ## Credit
 
  * Official website code source : used for `certificate.js` : https://github.com/LAB-MI/deplacement-covid-19
