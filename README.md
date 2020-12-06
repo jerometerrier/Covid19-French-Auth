@@ -47,7 +47,7 @@ Go to http://localhost:8080/demo.html
 
 ## Credit
 
- * Official website code source : used for `certificate.js` : https://github.com/LAB-MI/deplacement-covid-19
+ * Official website code source : used for `certificate.js` : https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020
  * Inspired by : 
     * https://twitter.com/Kamidh/status/1247570275442601984
     *  https://www.igen.fr/ios/2020/04/un-raccourci-pour-generer-lattestation-de-deplacement-derogatoire-numerique-114133
